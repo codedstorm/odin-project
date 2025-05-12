@@ -1,0 +1,31 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #222;
+  color: #f5f5f5;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #e0aaff;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+p {
+  font-size: 1.25rem;
+  max-width: 600px;
+  text-align: center;
+  margin-top: 1.5rem;
+}
