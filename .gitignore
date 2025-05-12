@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node modules (for later phases)
+node_modules/
+
+# Ignore environment variables and secrets
+.env
